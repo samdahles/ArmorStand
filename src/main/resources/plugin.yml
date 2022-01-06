@@ -1,0 +1,6 @@
+name: ArmorStand
+main: dev.samdahles.armorstand.Core
+version: 1.0
+api-version: 1.18
+author: Sam Dahles
+description: Spigot plugin enabling Bedrock-like Armor Stand interaction.
